@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/NumberCrunch.Business/bin
+/NumberCrunch.Business/obj
+/NumberCrunch.Data/bin
+/NumberCrunch.Data/obj
+/NumberCrunchAPI/.vs
+/NumberCrunchAPI/bin
+/NumberCrunchAPI/obj
